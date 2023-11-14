@@ -1,0 +1,13 @@
+header{
+    background-color: #043679;
+    height: 4rem;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+header h1{
+    font-size: 1.2rem;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
